@@ -1,6 +1,6 @@
 import java.util.*;
 
-class AddTwoNumbers{
+class LongestSubString{
    public int lengthOfLongestSubstring(String s) {
         int start_index = 0;
         int end_index = 0;
