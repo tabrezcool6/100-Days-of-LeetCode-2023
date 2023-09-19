@@ -1,5 +1,6 @@
+import java.util.*;
 
-class Solution {
+class MedianOfTwoNumbers {
 
     public static void main(String[] args) {
         // Inputs
