@@ -1,7 +1,8 @@
 import java.util.*;
 
 class AddTwoNumbers{
-   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+   
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode resultNode = new ListNode(0);
         ListNode pointer = resultNode;
 
@@ -29,4 +30,6 @@ class AddTwoNumbers{
 
         return resultNode.next;
     }
+    
+
 }
